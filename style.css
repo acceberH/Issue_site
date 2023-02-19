@@ -1,3 +1,4 @@
+/*home .{}*/
 
 h1{
 	color: #f6be11;
@@ -33,7 +34,6 @@ h1{
 	font-style: normal;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
   background-color: #f6be11;
   color: #ED1F2A;
@@ -50,31 +50,120 @@ h1{
 
 
 }
-.wave1{
+.wave{
 	color: #3f211c;
 	font-size: 24px;
 	border: 4px solid black;
-  	padding: 20px 20px 20px 20px;
-  	background-color: #FBA5A6;
+  padding: 20px 20px 20px 20px;
+  background-color: #FBA5A6;
 }
-.wave2{
-	olor: #3f211c;
-	font-size: 24px;
-	border: 4px solid black;
-  	padding: 20px 20px 20px 20px;
-  	background-color: #FBA5A6;
+.head1{
+	color: #ed1f2a;
+	font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 46px;
+
 }
-.wave3{
-	color: #3f211c;
-	font-size: 24px;
-	border: 4px solid black;
-  	padding: 20px 20px 20px 20px;
-  	background-color: #FBA5A6;
+.head2{
+	color: #ed1f2a;
+	font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 36px;
 }
-.wave4{
-	color: #3f211c;
-	font-size: 24px;
+.emily{
+	position: absolute;
+  left: 45px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 25px;
+
+}
+.maya{
+	position: absolute;
+  left: 400px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 17px;
+
+}
+.shire{
+	position: absolute;
+  left: 750px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 17px;
+
+}
+.ada{
+	position: absolute;
+  left: 1100px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 20px;
+}
+
+.truth{
+	position: absolute;
+  left: 45px;
+  width: 330px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 25px;
+}
+.gloria{
+	position: absolute;
+  left: 420px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 17px;
+
+}
+.gloria2{
+	position: absolute;
+  left: 770px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 17px;
+
+}
+.emma{
+	position: absolute;
+  left: 1120px;
+  width: 300px;
+  border: 3px solid black;
+  padding: 10px;
+  background-color: #FBA5A6;
+  font-size: 20px;
+}
+.nicole{
+	color: #ed1f2a;
+	font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 70px;
+
+}
+.newst{
+	color: black;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 46px;
 	border: 4px solid black;
-  	padding: 20px 20px 20px 20px;
-  	background-color: #FBA5A6;
-	}
+  padding: 5px 5px 5px 5px;
+  background-color: lightgrey;
+}

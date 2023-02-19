@@ -1,0 +1,118 @@
+home .{}
+
+h1{
+	color: #f6be11;
+	font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 46px;
+}
+.topnav {
+  background-color: #f6be11;
+  overflow: hidden;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.topnav a {
+  float: left;
+  color: #3f211c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.topnav a:hover {
+  background-color: #3f211c;
+  color: #ED1F2A;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.topnav a.active {
+  background-color: #f6be11;
+  color: #ED1F2A;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.contentParent{
+	color: #f6be11;
+	font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+
+
+}
+.wave{
+	color: #3f211c;
+	font-size: 24px;
+	border: 4px solid black;
+  	padding: 20px 20px 20px 20px;
+  	background-color: #FBA5A6;
+}
+/*.wave2{
+	olor: #3f211c;
+	font-size: 24px;
+	border: 4px solid black;
+  	padding: 20px 20px 20px 20px;
+  	background-color: #FBA5A6;
+}
+.wave3{
+	color: #3f211c;
+	font-size: 24px;
+	border: 4px solid black;
+  	padding: 20px 20px 20px 20px;
+  	background-color: #FBA5A6;
+}
+.wave4{
+	color: #3f211c;
+	font-size: 24px;
+	border: 4px solid black;
+  	padding: 20px 20px 20px 20px;
+  	background-color: #FBA5A6;
+	}*/
+
+story .{}
+
+.topnav {
+  background-color: #f6be11;
+  overflow: hidden;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+.topnav a {
+  float: left;
+  color: #3f211c;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.topnav a:hover {
+  background-color: #3f211c;
+  color: #ED1F2A;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #f6be11;
+  color: #ED1F2A;
+  font-family: "badaboom-pro", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
